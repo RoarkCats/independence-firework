@@ -2,6 +2,8 @@
 
 🎆 Adds a single custom firework celebrating the United States' 250th birthday for the 4th of July!
 
+🔎 Supports both player and dispenser activation with corrected orientation.
+
 <img src="gallery/independence_firework.gif" alt="Independence firework exploding into the number 250 in red, white, and blue!" width="480"/>
 
 ## Recipe
