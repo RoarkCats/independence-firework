@@ -1,0 +1,1 @@
+give @s firework_rocket[rarity="uncommon",custom_model_data={floats:[742620800]},custom_data={independence_firework:1b},hide_additional_tooltip={},item_name='"Independence Firework"',fireworks={flight_duration:5,explosions:[{shape:"large_ball",has_twinkle:true,has_trail:true,colors:[I;2303,16777215,16711680]}]}]

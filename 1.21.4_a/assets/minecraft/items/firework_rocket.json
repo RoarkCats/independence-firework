@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/firework_rocket"
+        },
+        "property": "custom_model_data",
+        "entries": [
+            {
+                "threshold": 742620800,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/independence_firework"
+                }
+            }
+        ]
+    }
+}
