@@ -6,7 +6,7 @@
 
 ## Recipe
 
-<img src="gallery/independence_firework_recipe.png" alt="Independence firework exploding into the number 250 in red, white, and blue!" width="480"/>
+<img src="gallery/independence_firework_recipe.png" alt="Independence firework recipe: 3x firework, red+white+blue dye, gunpowder, paper" width="480"/>
 
 ## Questions
 
