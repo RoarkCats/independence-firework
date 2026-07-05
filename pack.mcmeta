@@ -1,9 +1,12 @@
 {
     "pack": {
-        "pack_format": 61,
-        "supported_formats": [0, 61],
-        "min_format": 48,
-        "max_format": 61,
+        "pack_format": 71,
+        "__earliest_version_supported": 48,
+        "__latest_version_tested": 107,
+        "__comment": "34 here so resource pack is listed as compatible with 1.21",
+        "supported_formats": [34, 1000],
+        "min_format": 34,
+        "max_format": 1000,
         "description": [
             {"text":""},{"text":"💥","color":"light_purple"}," Happy ",{"text":"2","color":"blue"},{"text":"5","color":"#cccccc"},{"text":"0","color":"red"},"th ",{"text":"U","color":"blue"},{"text":"S","color":"#cccccc"},{"text":"A","color":"red"},"! ",{"text":"💥","color":"light_purple"},
             "\n", {"text":"By RoarkCats","color":"gold"}
@@ -18,6 +21,12 @@
             {
                 "directory": "1.21.4",
                 "formats": 61
+            },
+            {
+                "directory": "1.21.5",
+                "formats": [71, 1000],
+                "min_format": 71,
+                "max_format": 1000
             },
 
 
