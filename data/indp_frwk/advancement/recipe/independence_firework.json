@@ -1,0 +1,36 @@
+{
+    "criteria": {
+        "has_ingredients": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+					{
+						"items": [
+							"minecraft:firework_rocket",
+                            "minecraft:red_dye",
+                            "minecraft:blue_dye",
+                            "minecraft:white_dye"
+						]
+					}
+                ]
+            }
+        },
+		"has_the_recipe": {
+			"conditions": {
+				"recipe": "minecraft:firework_rocket_simple"
+			},
+			"trigger": "minecraft:recipe_unlocked"
+		}
+    },
+    "requirements": [
+        [
+            "has_ingredients",
+            "has_the_recipe"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "indp_frwk:independence_firework"
+        ]
+    }
+}

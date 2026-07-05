@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{"item": "firework_rocket"},
+		{"item": "firework_rocket"},
+		{"item": "firework_rocket"},
+		{"item": "blue_dye"},
+		{"item": "white_dye"},
+		{"item": "red_dye"},
+		{"item": "gunpowder"},
+		{"item": "paper"}
+	],
+	"result": {
+		"id": "firework_rocket",
+		"components": {
+			"rarity": "uncommon",
+			"custom_model_data": 742620800,
+			"custom_data": {"independence_firework": true},
+			"hide_additional_tooltip": {},
+			"item_name": "\"Independence Firework\"",
+			"fireworks": {
+				"flight_duration": 5,
+				"explosions": [{
+					"shape":"large_ball",
+					"has_twinkle":true,
+					"has_trail":true,
+					"colors":[2303,16777215,16711680]
+				}]
+			}
+		}
+	},
+	"category": "misc"
+}
