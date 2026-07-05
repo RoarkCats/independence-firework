@@ -5,6 +5,8 @@
             "min_inclusive": 0,
             "max_inclusive": 48
         },
+        "min_format": 48,
+        "max_format": 48,
         "description": [
             {"text":""},{"text":"💥","color":"light_purple"}," Happy ",{"text":"2","color":"blue"},{"text":"5","color":"#cccccc"},{"text":"0","color":"red"},"th ",{"text":"U","color":"blue"},{"text":"S","color":"#cccccc"},{"text":"A","color":"red"},"! ",{"text":"💥","color":"light_purple"},
             "\n", {"text":"By RoarkCats","color":"gold"}
