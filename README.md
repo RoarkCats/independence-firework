@@ -1,4 +1,4 @@
-# <img src="pack.png" alt="drawing" width="24"/> Independence Firework
+# <img src="pack.png" alt="drawing" width="24"/> Independence Firework [![Modrinth Project](https://img.shields.io/modrinth/dt/wVgfTfT4?logo=modrinth&label=Modrinth&style=flat&labelColor=2D2D2D&color=555555)](https://modrinth.com/datapack/independence-firework)
 
 🎆 Adds a single custom firework celebrating the United States' 250th birthday for the 4th of July!
 
